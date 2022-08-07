@@ -1,6 +1,8 @@
 #pragma once
 
-#include "Yoi/Application.h"
+#include "yoi/Application.h"
+#include "yoi/Log.h"
+
 
 //---------Entry-Point-----------//
 
